@@ -8,3 +8,11 @@ This project uses OpenCV's Deep Neural Network (DNN) module to detect faces in r
 - Overlays bounding boxes and labels for detected faces with age and gender predictions.
 
 ## Screenshot
+
+Here are examples of the project's code and a live detection output:
+
+1. **Code Overview**  
+   ![Code](Code.png)
+
+2. **Live Example**  
+   ![Live Example](Live%20Example.png)
